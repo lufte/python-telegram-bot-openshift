@@ -3,6 +3,7 @@
 Starter kit for running a Telegram bot (built with the [python-telegram-bot](https://github.com/lufte/python-telegram-bot-openshift.git) library) in [Openshift](https://www.openshift.com/).
 
 Instructions:
+
 1. Register at [Openshift](https://www.openshift.com/).
 2. Create a Python3 application.
 3. Complete the `bot.py` file with your bot's token and handlers.
