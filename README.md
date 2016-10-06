@@ -1,6 +1,6 @@
 # python-telegram-bot-openshift
 
-Starter kit for running a Telegram bot (built with the [python-telegram-bot](https://github.com/lufte/python-telegram-bot-openshift.git) library) in [Openshift](https://www.openshift.com/).
+Starter kit for running a Telegram bot (built with the [python-telegram-bot](https://github.com/lufte/python-telegram-bot-openshift.git) library) on [Openshift](https://www.openshift.com/).
 
 Instructions:
 
